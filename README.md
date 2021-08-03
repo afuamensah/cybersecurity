@@ -10,3 +10,5 @@ For our final project, the class was split up into groups and we were assigned t
 ![https](https://user-images.githubusercontent.com/38508481/127946875-14165821-f675-4c83-8027-86f605371770.png)
 ![httpsdetail](https://user-images.githubusercontent.com/38508481/127946874-1da5830b-1277-4f9c-bbce-59d3bcf7999f.png)
 
+***This web app can be displayed in a browser once it is in your hands.***
+
