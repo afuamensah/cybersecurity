@@ -1,6 +1,6 @@
 # cybersecurity
 
-For our final project, the class was split up into groups and we were assigned to apply a cybersecurity skill we learned throughout the semester. With 2 web developers in the group, our group of three decided to develop a website and have it go online, then navigate to it and check the packets being transferred in Wireshark. After that, we used OpenSSL to get a certificate for the website so it would be HTTPS instead of HTTP and then checked the packets being transferred with the website ebing secure.
+For our final project, the class was split up into groups and we were assigned to apply a cybersecurity skill we learned throughout the semester. With 2 web developers in the group, our group of three decided to develop a website and have it go online, then navigate to it and check the packets being transferred in Wireshark. After that, we used OpenSSL to get a certificate for the website so it would be HTTPS instead of HTTP and then checked the packets being transferred with the website being secure.
 
 ## Screenshots from Wireshark with HTTP Website (exposes the process):
 ![http](https://user-images.githubusercontent.com/38508481/127946784-95e185fe-6d28-4de3-a8d7-14d6c1fdd88e.png)
